@@ -1,0 +1,23 @@
+{
+  "module": "crypto-airdrop-farmer",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "wallets": {
+      "enabled": true
+    },
+    "tasks": {
+      "enabled": true
+    },
+    "alerts": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
