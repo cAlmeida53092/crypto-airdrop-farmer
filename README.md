@@ -90,3 +90,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: crypto-airdrop-farmer, crypto, airdrop, farmer, multi-wallet, tasks, tracking, alerts, web3, cli, developer-tools, open-source, windows, automation, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+crypto airdrop farmer multi-wallet tasks tracking alerts web3 airdrop-tracker wallet-farm-tool crypto-airdrop-farmer windows portable prebuilt x64 free download
+related: crypto, airdrop, farmer, multi-wallet, tasks, tracking, alerts, web3
